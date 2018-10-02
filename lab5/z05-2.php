@@ -1,4 +1,5 @@
 <?php
+	$gamburger = "new gamb..";
 	$breakfast = "gamburger";
 	$$breakfast = " and tea";
 
