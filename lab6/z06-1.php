@@ -1,4 +1,5 @@
 <?php
+	ini_set('default_charset', 'utf-8');
 	$i = 0;
 	$color = 'silver';
 
