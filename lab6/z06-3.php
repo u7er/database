@@ -21,7 +21,6 @@
     $lang = $_GET['lang'];
     $color = $_GET['color'];
 
-    echo 'Language: ';
 	switch($lang){
 		case 'ru':
 			ru($color);
